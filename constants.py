@@ -29,7 +29,7 @@ VALUE = "value"
 
 # NON-LITERAL CONSTANTS
 COMMAND_USER_AGENT_SELENIUM = "return navigator.userAgent;"
-CSS_SUBMIT = ".\\_abak:nth-child(3)"
+CSS_SUBMIT = ".\_acan > .x9f619"
 SAFE_CHARS_ENCODER = "!~*'()"
 MAIN_MESSAGE = "Enter main"
 STARTING_MESSAGE = "Starting analysis: "
