@@ -22,7 +22,6 @@ def main():
         sourceCode.analyzeInstagramUser()
         ig.logoutInstagram()
     except Exception as exception:
-        ig.logoutInstagram()
         logError(message = exception)
 
 if __name__ == '__main__':
